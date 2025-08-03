@@ -1,3 +1,4 @@
+// Instalar previamente o pacote prompt-sync (npm install prompt-sync)
 const prompt = require('prompt-sync')();
 
 // Definindo variáveis para o nome do herói e seu XP
